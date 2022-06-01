@@ -1,3 +1,10 @@
+#yttrm1 added conditions
+.DS_Store
+# see subsection - jupyter, python , ipython, enviroments (env), pyenv, pipenv
+
+
+#Python gitignore template
+***
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
